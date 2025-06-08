@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HTTP Utility (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "HTTP Utility (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

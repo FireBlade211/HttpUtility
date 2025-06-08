@@ -1,0 +1,1 @@
+C:\Users\Piotr\Projects\Visual Studio Repos\HTTP Utility\bin\ARM64\Release\net8.0-windows10.0.19041.0\win-arm64\AppPackages\HTTP Utility_1.0.0.0_arm64_Test\HTTP Utility_1.0.0.0_arm64.msix

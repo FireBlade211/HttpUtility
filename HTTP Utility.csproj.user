@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <SmallTileSource>C:\Users\Piotr\Projects\Visual Studio Repos\HTTP Utility\Assets\Branding\Logo_new2.png</SmallTileSource>
+    <MediumTileSource>C:\Users\Piotr\Projects\Visual Studio Repos\HTTP Utility\Assets\Branding\Logo_new2.png</MediumTileSource>
+    <WideTileSource>C:\Users\Piotr\Projects\Visual Studio Repos\HTTP Utility\Assets\Branding\Logo_new2.png</WideTileSource>
+    <LargeTileSource>C:\Users\Piotr\Projects\Visual Studio Repos\HTTP Utility\Assets\Branding\Logo_new2.png</LargeTileSource>
+    <AppIconSource>C:\Users\Piotr\Projects\Visual Studio Repos\HTTP Utility\Assets\Branding\Logo_new2.png</AppIconSource>
+    <SplashScreenSource>C:\Users\Piotr\Projects\Visual Studio Repos\HTTP Utility\Assets\Branding\Logo_new2.png</SplashScreenSource>
+    <BadgeLogoSource>C:\Users\Piotr\Projects\Visual Studio Repos\HTTP Utility\Assets\Branding\Logo_new2.png</BadgeLogoSource>
+    <PackageLogoSource>C:\Users\Piotr\Projects\Visual Studio Repos\HTTP Utility\Assets\Branding\Logo_new2.png</PackageLogoSource>
+    <UapAppxPackageBuildMode>SideloadOnly</UapAppxPackageBuildMode>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>x86|x64|arm64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Update="App.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <Page Update="ResponsePage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="HeaderPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <None Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </None>
+    <Page Update="OptionsPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <None Update="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </None>
+    <Page Update="RootPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\rootpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:rootpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\configpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:configpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\configpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:configpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\optionspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:optionspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\rootpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:rootpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:package.appxmanifest||{4D47164B-07B6-4A52-A855-728D6A2E2AA3}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:configmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\responsepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:responsepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\responsepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:responsepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\http utility.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:http utility.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\headerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:headerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\headerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:headerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\optionspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:optionspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:globals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|c:\\users\\piotr\\projects\\visual studio repos\\http utility\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{88F72B1C-FFF0-41ED-9BE6-DC325BD52986}|HTTP Utility.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwEYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:24:13.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Package.appxmanifest",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\Package.appxmanifest",
+              "RelativeDocumentMoniker": "Package.appxmanifest",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\Package.appxmanifest",
+              "RelativeToolTip": "Package.appxmanifest",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001793|",
+              "WhenOpened": "2025-06-07T08:01:38.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HTTP Utility",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\HTTP Utility.csproj",
+              "RelativeDocumentMoniker": "HTTP Utility.csproj",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\HTTP Utility.csproj",
+              "RelativeToolTip": "HTTP Utility.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-07T07:57:50.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConfigPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\ConfigPage.xaml.cs",
+              "RelativeDocumentMoniker": "ConfigPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\ConfigPage.xaml.cs",
+              "RelativeToolTip": "ConfigPage.xaml.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowGkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T20:07:06.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigManager.cs",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\ConfigManager.cs",
+              "RelativeDocumentMoniker": "ConfigManager.cs",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\ConfigManager.cs",
+              "RelativeToolTip": "ConfigManager.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:59:23.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\ConfigPage.xaml",
+              "RelativeDocumentMoniker": "ConfigPage.xaml",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\ConfigPage.xaml",
+              "RelativeToolTip": "ConfigPage.xaml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T19:58:31.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResponsePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\ResponsePage.xaml.cs",
+              "RelativeDocumentMoniker": "ResponsePage.xaml.cs",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\ResponsePage.xaml.cs",
+              "RelativeToolTip": "ResponsePage.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAADIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:54:56.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponsePage.xaml",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\ResponsePage.xaml",
+              "RelativeDocumentMoniker": "ResponsePage.xaml",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\ResponsePage.xaml",
+              "RelativeToolTip": "ResponsePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T14:15:37.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HeaderPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\HeaderPage.xaml.cs",
+              "RelativeDocumentMoniker": "HeaderPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\HeaderPage.xaml.cs",
+              "RelativeToolTip": "HeaderPage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:45:59.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HeaderPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\HeaderPage.xaml",
+              "RelativeDocumentMoniker": "HeaderPage.xaml",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\HeaderPage.xaml",
+              "RelativeToolTip": "HeaderPage.xaml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T14:40:55.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OptionsPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\OptionsPage.xaml",
+              "RelativeDocumentMoniker": "OptionsPage.xaml",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\OptionsPage.xaml",
+              "RelativeToolTip": "OptionsPage.xaml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAG4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T13:26:48.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OptionsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\OptionsPage.xaml.cs",
+              "RelativeDocumentMoniker": "OptionsPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\OptionsPage.xaml.cs",
+              "RelativeToolTip": "OptionsPage.xaml.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAMwP4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:22:55.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T13:35:00.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RootPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\RootPage.xaml.cs",
+              "RelativeDocumentMoniker": "RootPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\RootPage.xaml.cs",
+              "RelativeToolTip": "RootPage.xaml.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAcwJcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T12:45:07.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RootPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\RootPage.xaml",
+              "RelativeDocumentMoniker": "RootPage.xaml",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\RootPage.xaml",
+              "RelativeToolTip": "RootPage.xaml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEcAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T11:32:51.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Globals.cs",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\Globals.cs",
+              "RelativeDocumentMoniker": "Globals.cs",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\Globals.cs",
+              "RelativeToolTip": "Globals.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:41:57.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T11:33:10.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Piotr\\Projects\\Visual Studio Repos\\HTTP Utility\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-03T11:32:56.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 904,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

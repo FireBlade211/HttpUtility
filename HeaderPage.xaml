@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="HttpUtility.HeaderPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HttpUtility"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Width="650"
+    Height="600">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="48"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Button Width="96" Name="AddButton">
+            <Button.Content>
+                <StackPanel Orientation="Horizontal" Spacing="6">
+                    <FontIcon Glyph="&#xE710;" />
+                    <TextBlock Style="{StaticResource BodyTextBlockStyle}" Text="Add"/>
+                </StackPanel>
+
+            </Button.Content>
+            <Button.Flyout>
+                <MenuFlyout>
+                    <MenuFlyoutSubItem Text="General">
+                        <MenuFlyoutSubItem.Icon>
+                            <FontIcon Glyph="&#xE80F;" />
+                        </MenuFlyoutSubItem.Icon>
+                        <MenuFlyoutItem Text="Content-Type" Click="AddHeader"/>
+                        <MenuFlyoutItem Text="Accept" Click="AddHeader"/>
+                        <MenuFlyoutItem Text="User-Agent" Click="AddHeader"/>
+                        <MenuFlyoutItem Text="Connection" Click="AddHeader"/>
+                    </MenuFlyoutSubItem>
+                    <MenuFlyoutSubItem Text="Authentication">
+                        <MenuFlyoutSubItem.Icon>
+                            <FontIcon Glyph="&#xE8D7;" />
+                        </MenuFlyoutSubItem.Icon>
+                        <MenuFlyoutItem Text="Authorization" Click="AddHeader"/>
+                        <MenuFlyoutItem Text="Proxy-Authorization" Click="AddHeader"/>
+                    </MenuFlyoutSubItem>
+                    <MenuFlyoutSubItem Text="Caching">
+                        <MenuFlyoutSubItem.Icon>
+                            <FontIcon Glyph="&#xE74E;" />
+                        </MenuFlyoutSubItem.Icon>
+                        <MenuFlyoutItem Text="Cache-Control" Click="AddHeader"/>
+                        <MenuFlyoutItem Text="ETag" Click="AddHeader"/>
+                        <MenuFlyoutItem Text="If-None-Match" Click="AddHeader"/>
+                        <MenuFlyoutItem Text="If-Modified-Since" Click="AddHeader"/>
+                    </MenuFlyoutSubItem>
+                    <MenuFlyoutSubItem Text="Entity">
+                        <MenuFlyoutSubItem.Icon>
+                            <FontIcon Glyph="&#xECCD;" />
+                        </MenuFlyoutSubItem.Icon>
+                        <MenuFlyoutItem Text="Content-Length" Click="AddHeader"/>
+                        <MenuFlyoutItem Text="Content-Encoding" Click="AddHeader"/>
+                        <MenuFlyoutItem Text="Content-Language" Click="AddHeader"/>
+                    </MenuFlyoutSubItem>
+                    <MenuFlyoutSubItem Text="Other">
+                        <MenuFlyoutSubItem.Icon>
+                            <FontIcon Glyph="&#xE7BC;" />
+                        </MenuFlyoutSubItem.Icon>
+                        <MenuFlyoutItem Text="Origin" Click="AddHeader"/>
+                        <MenuFlyoutItem Text="Referer" Click="AddHeader"/>
+                        <MenuFlyoutItem Text="Access-Control-Request-Headers" Click="AddHeader"/>
+                    </MenuFlyoutSubItem>
+                    <MenuFlyoutItem Text="Add empty header" Click="AddCustom"/>
+                </MenuFlyout>
+            </Button.Flyout>
+        </Button>
+        <ListView ItemsSource="{x:Bind Headers,Mode=TwoWay}" Grid.Row="1" SelectionMode="None" CanDragItems="True" CanReorderItems="True" AllowDrop="True" Padding="0,0,0,10">
+            <ListView.Resources>
+                <FontIconSource x:Key="DeleteIcon" Glyph="&#xE74D;"/>
+
+                <LinearGradientBrush x:Key="DeleteGradient" StartPoint="0,0.5" EndPoint="1,0.5">
+                    <GradientStop Color="Red" Offset="0.0"/>
+                    <GradientStop Color="OrangeRed" Offset="0.5"/>
+                    <GradientStop Color="Orange" Offset="1.0"/>
+                </LinearGradientBrush>
+
+                    <SwipeItems x:Key="right" Mode="Execute">
+                    <SwipeItem Text="Delete" IconSource="{StaticResource DeleteIcon}"
+                       Background="{StaticResource DeleteGradient}" Foreground="#ffffff" Invoked="DeleteItem_ItemInvoked"/>
+                </SwipeItems>
+            </ListView.Resources>
+
+            <ListView.Header>
+                <Grid Padding="16,12"
+                    ColumnSpacing="16">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="180" />
+                        <ColumnDefinition Width="220" />
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+                            Text="Key" />
+                    <TextBlock Grid.Column="1"
+                            Foreground="{ThemeResource TextFillColorSecondaryBrush}"
+                            Text="Value" />
+                </Grid>
+            </ListView.Header>
+
+            <ListView.ItemTemplate>
+                <DataTemplate x:DataType="local:HttpHeader">
+                    <SwipeControl BorderThickness="0,1,0,0" BorderBrush="{ThemeResource ButtonBackground}"
+                          RightItems="{StaticResource right}" MaxHeight="24">
+                        <Grid ColumnSpacing="16">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="180" />
+                                <ColumnDefinition Width="220" />
+                                <ColumnDefinition Width="48"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+
+                            <TextBox Text="{x:Bind Key,Mode=TwoWay}" />
+                            <TextBox Text="{x:Bind Value,Mode=TwoWay}" Grid.Column="1" />
+
+                            <Button Grid.Column="2" Click="DeleteButton_Click" ToolTipService.ToolTip="Delete" AutomationProperties.Name="Delete">
+                                <Button.Content>
+                                    <SymbolIcon Symbol="Delete"/>
+                                </Button.Content>
+                            </Button>
+                        </Grid>
+                    </SwipeControl>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </Grid>
+</Page>
