@@ -1,0 +1,8 @@
+# Ignore build output
+bin/
+obj/
+
+# Ignore certificates
+*.pfx
+*.cer
+*.pvk
