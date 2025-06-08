@@ -1,1 +1,0 @@
-C:\Users\Piotr\Projects\Visual Studio Repos\HTTP Utility\HTTP Utility.csproj;x86
