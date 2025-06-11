@@ -24,7 +24,7 @@ If you get a certificate error (**0x800B010A**) after running the MSIX file, clo
 3. In the dialog that shows up, click **Install Certificate**.
 4. In the **Certificate Import Wizard**, select *Local Machine* and press Next.
 5. Authenticate with **User Account Control** to continue.
-6. On the next page, select **Place all certificates in the following store**, and in the *Certificate store* box, click Browse, find **Trusted Root Certification Authorities**, and press OK. Then, press Next.
+6. On the next page, select **Place all certificates in the following store**, and in the *Certificate store* box, click **Browse**, find **Trusted Root Certification Authorities**, and press OK. Then, press Next.
 7. Finally, hit Finish, close the message box that shows up, and close out of the **Certificate** dialog.
 8. Now, you can run the **MSIX** file again, and, if everything was done correctly, you should be able to install the program.
 
