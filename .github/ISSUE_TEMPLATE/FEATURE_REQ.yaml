@@ -1,0 +1,24 @@
+name: Feature Request
+description: Suggest a feature to be added in the next version of HTTP Utility
+labels: ["feature"]
+title: "[FEATURE]"
+body:
+  - type: textarea
+    id: "problem"
+    attributes:
+      label: Is your feature request related to a problem? Please describe.
+      description: "Provide a clear and concise description of what the problem is. Leave blank if the feature request isn't related to a problem."
+      placeholder: "I'm always frustrated when [...]"
+  - type: textarea:
+    id: "solution",
+    attributes:
+      label: Solution
+      description: "Describe the solution you'd like."
+    validations:
+      required: true
+  - type: textarea
+    id: "alts",
+    attributes:
+      label: "Alternative solutions"
+      description: "Have you used any alternative solutions to achieve this feature?"
+      placeholder: "e.g, I used [feature] and [feature] to achieve [feature]"
