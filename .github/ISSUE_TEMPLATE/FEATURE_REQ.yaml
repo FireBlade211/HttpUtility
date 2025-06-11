@@ -6,19 +6,20 @@ body:
   - type: textarea
     id: "problem"
     attributes:
-      label: "Is your feature request related to a problem? Please describe."
-      description: "Provide a clear and concise description of what the problem is. Leave blank if the feature request isn't related to a problem."
+      label: "Is your feature request related to a problem?"
+      description: "If applicable, provide a clear and concise description of the problem you're facing. Leave blank if not related to a problem."
       placeholder: "I'm always frustrated when [...]"
   - type: textarea
     id: "solution"
     attributes:
       label: Solution
-      description: "Describe the solution you'd like."
+      description: "Describe the solution you'd like and the feature to add."
+      placeholder: "It would be great if the app could [...]"
     validations:
       required: true
   - type: textarea
     id: "alts"
     attributes:
-      label: "Alternative solutions"
-      description: "Have you used any alternative solutions to achieve this feature?"
-      placeholder: "e.g, I used [feature] and [feature] to achieve [feature]"
+      label: "Alternatives"
+      description: "Have you tried any other workarounds or existing features to solve this? If so, describe them here."
+      placeholder: "e.g., I used [existing feature] and [tool] to try to accomplish [...]"
