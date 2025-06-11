@@ -1,6 +1,6 @@
 name: Feature Request
 description: Suggest a feature to be added in the next version of HTTP Utility
-labels: ["feature"]
+labels: ["enhancement"]
 title: "[FEATURE]"
 body:
   - type: textarea
