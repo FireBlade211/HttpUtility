@@ -1,6 +1,7 @@
 name: Bug Report
 description: File a bug
-title: Bug Report
+title: "Bug Report"
+labels: ["bug"]
 body:
   - type: input
     id: "winver"
@@ -23,7 +24,7 @@ body:
     attributes:
       label: Reproduction steps
       description: "How do you trigger this bug? Please walk us through it step by step."
-      value: |
+      placeholder: |
         1. Go to ...
         2. Scroll to ...
         3. Click on ...
@@ -37,7 +38,7 @@ body:
       options:
         - Very rarely
         - Rarely
-        - Middle
+        - Occasionally
         - Often
         - Very often
     validations:
