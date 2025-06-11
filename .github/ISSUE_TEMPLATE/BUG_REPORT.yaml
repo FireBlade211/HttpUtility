@@ -30,7 +30,8 @@ body:
         ...
     validations:
       required: true
-    - type: dropdown
+  - type: dropdown
+    id: frequency
     attributes:
       label: How often does this bug occur?
       options:
