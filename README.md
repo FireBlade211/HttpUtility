@@ -15,13 +15,13 @@ A WinUI 3 application that allows you to send HTTP requests.
 - - [Settings](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#settings)
 
 # Installation
-Download the latest release from the [Releases](https://github.com/FireBlade211/HttpUtility/releases) page, download the **ZIP file** for your architecture (e.g, "HTTP Utility_1.0.0.0_x64.zip"), unzip it, and run the MSIX file.
+Download the latest release from the [Releases](https://github.com/FireBlade211/HttpUtility/releases) page, download the **ZIP file** for your architecture (e.g, "HTTP Utility_1.0_x64.zip"), unzip it, and run the **MSIX** file (e.g, "HTTP Utility_1.0.0.0_x64.msix").
 
 ## Certificate error (*0x800B010A*)
-If you get a certificate error (**0x800B010A**) after running the MSIX file, close out of the installer and follow the steps below.
+If you get a certificate error (**0x800B010A**) after running the **MSIX** file, **close out of the installer** and follow the steps below.
 1. Go back to the folder you unzipped.
 2. Find the *.cer* file and double-click on it.
-3. In the dialog that shows up, click **Install Certificate**.
+3. In the **Certificate** dialog, click **Install Certificate**.
 4. In the **Certificate Import Wizard**, select *Local Machine* and press Next.
 5. Authenticate with **User Account Control** to continue.
 6. On the next page, select **Place all certificates in the following store**, and in the *Certificate store* box, click **Browse**, find **Trusted Root Certification Authorities**, and press OK. Then, press Next.
