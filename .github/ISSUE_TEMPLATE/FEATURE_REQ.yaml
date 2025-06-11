@@ -6,7 +6,7 @@ body:
   - type: textarea
     id: "problem"
     attributes:
-      label: Is your feature request related to a problem? Please describe.
+      label: "Is your feature request related to a problem? Please describe."
       description: "Provide a clear and concise description of what the problem is. Leave blank if the feature request isn't related to a problem."
       placeholder: "I'm always frustrated when [...]"
   - type: textarea
