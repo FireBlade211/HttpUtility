@@ -3,6 +3,12 @@ description: File a bug
 title: "Bug Report"
 labels: ["bug"]
 body:
+  - type: markdown
+    attributes:
+      value: "## Bug Report"
+  - type: markdown
+    attributes:
+      value: "File a bug report by filling out this form!"
   - type: input
     id: "winver"
     attributes:
