@@ -41,7 +41,8 @@ body:
   - type: dropdown
     id: frequency
     attributes:
-      label: How often does this bug occur?
+      label: Frequency
+      description: How often does this bug occur?
       options:
         - Very rarely
         - Rarely
