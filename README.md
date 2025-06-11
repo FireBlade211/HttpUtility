@@ -2,7 +2,7 @@
 A WinUI 3 application that allows you to send HTTP requests.
 
 # Table of Contents
-[Go to Top](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#http-utility)
+[View full](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#full-table-of-contents)
 - [Installation](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#installation)
 - - [Certificate error (0x800B010A)](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#certificate-error-0x800b010a)
 - [Dependencies](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#dependencies)
@@ -10,17 +10,9 @@ A WinUI 3 application that allows you to send HTTP requests.
 - [Contributions](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#contributions)
 - [How to Use](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#how-to-use)
 - - [Options](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#options)
-- - - [URL](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#url)
-- - - [Basic settings](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#basic-settings)
-- - - [Export and import](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#export-and-import)
 - - [Response](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#response)
-- - - [Raw](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#raw)
-- - - [Render](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#render)
 - - [Send Request](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#send-request)
 - - [Settings](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#settings)
-- - - [Appearance & behavior](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#appearance--behavior)
-- - - - [Sound](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#sound)
-- - - [About](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#about)
 
 # Installation
 Download the latest release from the [Releases](https://github.com/FireBlade211/HttpUtility/releases) page, download the **ZIP file** for your architecture (e.g, "HTTP Utility_1.0.0.0_x64.zip"), unzip it, and run the MSIX file.
@@ -46,7 +38,7 @@ This app depends on the **Windows App SDK**, but modern versions of Windows shou
 **HTTP Utility** is free and open-source. Contributions are welcome!
 
 # How to Use
-After running **HTTP Utility**, you can configure the options used to send the HTTP request in the **Options** tab, view the sent response in the **Response** tab, send the HTTP request by clicking the **Send Request** button, and configure settings in the **Settings** tab. The specific tabs and buttons and their usage can be found below:
+After running **HTTP Utility**, you can configure the options used to send the HTTP request in the **Options** tab, view the sent response in the **Response** tab, send the HTTP request by clicking the **Send Request** button, and configure settings in the **Settings** tab. The specific tabs and buttons, and their usage, can be found below:
 
 ## Options
 Allows you to configure the options for the HTTP request. Here are the settings and their explanation:
@@ -90,3 +82,25 @@ Enable or disable sound effects.
 - **Window background style** - Pick a window background style. **Acrylic (thin)** looks the nicest, but it also may be glitchy, so use at your own risk.
 ### About
 View information about **HTTP Utility**, such as your version. This will automatically show a special card on **Debug** builds.
+
+# Full Table of Contents
+[Go to Top](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#http-utility)
+[View compact](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#table-of-contents)
+- [Installation](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#installation)
+- - [Certificate error (0x800B010A)](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#certificate-error-0x800b010a)
+- [Dependencies](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#dependencies)
+- [License](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#license)
+- [Contributions](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#contributions)
+- [How to Use](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#how-to-use)
+- - [Options](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#options)
+- - - [URL](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#url)
+- - - [Basic settings](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#basic-settings)
+- - - [Export and import](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#export-and-import)
+- - [Response](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#response)
+- - - [Raw](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#raw)
+- - - [Render](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#render)
+- - [Send Request](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#send-request)
+- - [Settings](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#settings)
+- - - [Appearance & behavior](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#appearance--behavior)
+- - - - [Sound](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#sound)
+- - - [About](https://github.com/FireBlade211/HttpUtility/blob/main/README.md#about)
