@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HttpRequestOptions>
+  <Url>https://www.whatismybrowser.com/</Url>
+  <Method>GET</Method>
+  <Headers>
+    <HttpHeader Key="User-Agent" Value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/137.0.3296.68" />
+    <HttpHeader Key="Referer" Value="https://www.google.com/" />
+  </Headers>
+  <Body />
+</HttpRequestOptions>
